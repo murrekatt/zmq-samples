@@ -17,8 +17,8 @@ Then do
 
 After you can run the examples like so:
 
-    bin/proto-libzmq
+    bin/sample-libzmq
 
 and
 
-    bin/proto-czmq
+    bin/sample-czmq
